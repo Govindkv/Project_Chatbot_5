@@ -29,15 +29,15 @@ WeCredit is a **virtual financial assistant** that helps users with queries rela
 
 ### 1️⃣ Clone the Repository
 ```bash
-$ git clone https://github.com/yourusername/wecredit-virtual-assistant.git
-$ cd wecredit-virtual-assistant
+$ git clone https://github.com/Govindkv/Project_Chatbot_5.git
+$ cd Project_Chatbot_5
 ```
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
 ```bash
-$ python -m venv venv
-$ source venv/bin/activate  # On Mac/Linux
-$ venv\Scripts\activate    # On Windows
+$ python -m venv financebot
+$ source financebot/bin/activate  # On Mac/Linux
+$ financebot\Scripts\activate    # On Windows
 ```
 
 ### 3️⃣ Install Dependencies
