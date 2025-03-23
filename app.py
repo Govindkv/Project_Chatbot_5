@@ -2,8 +2,8 @@ import streamlit as st
 from chatbot import get_openai_response
 
 ##Streamlit UI
-st.title("Welcome! I'm WeCredit Virtual Assistant")
-st.write("Ask me anything about loans, credit scores, or interest rates!")
+st.title("Hey buddy! Govind Kumar Welcomes you.")
+st.write("I am his virtual assistant, here to help!")
 
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
